@@ -1,20 +1,28 @@
+img{
+    width: 400px;
+    height: 400px;
+}
 body{
     text-align: center;
-    background:linear-gradient(#fc0303 0%,#fcfc03 100%);
+    background-color: deepskyblue;
 }
-.line{
-    background-color: black;
-    height: 7px;
-    width: 150px;
-    margin:8px auto;
+#as3{
+    background-color:firebrick;
+    background: linear-gradient(#fc0303 0%, #fcad03 50%, #f8fc03 100%);
 }
-h2{
-    font-family: 'Goblin One', cursive;
-    font-size: 20px;
+#as4{
+    background-color:azure;
+    background: linear-gradient(#0019fa 0%, #d900fa 50%, #000000 100%);
+    font-
 }
-img{
-    height: 500px;
-    width: 500px;
-    margin: 8px;    
+#as1{
+    background-color:antiquewhite;
+    background: linear-gradient(#08ffea 0%,#081dff 100%);
 }
-img:hover{transform: scale(1.1);}
+#as2{
+    background-color:aquamarine;
+    background: linear-gradient(#f59e42 0%, #161efa 50%, #1efa16 100%);
+}
+#was{
+    color: white;
+}
